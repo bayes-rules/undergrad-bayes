@@ -1,0 +1,46 @@
+---
+title: "Resources for Undergraduate Bayesian Education"
+author: "[Mine Dogucu](https://www.minedogucu.com)"
+date: "last updated: `r format(Sys.time(), '%B %d, %Y')`"
+output: 
+  html_document:
+    toc: true
+    toc_depth: 3
+    toc_float: 
+      collapsed: false
+      smooth_scroll: false
+    theme:  default
+    highlight: null
+---
+
+## Textbooks
+
+- Bayes Rules! 
+
+- [Probability and Bayesian Modeling by Jim Albert and Jingchen(Monika) Hu.](https://bayesball.github.io/BOOK/probability-a-measurement-of-uncertainty.html)
+
+- [An Introduction to Bayesian Thinking: A Companion to the Statistics with R course](https://statswithr.github.io/book/)
+
+
+## Papers
+
+- [Albert, J., & Hu, J. (2020). Bayesian Computing in the Statistics and Data Science Curriculum. arXiv preprint arXiv:2002.09716.](https://arxiv.org/abs/2002.09716)
+
+- [Hu, J. (2019). A Bayesian Statistics Course for Undergraduates: Bayesian Thinking, Computing and Research. arXiv preprint arXiv:1910.05818.](https://arxiv.org/abs/1910.05818)
+
+- [Witmer, J. (2017). Bayes and MCMC for undergraduates. The American Statistician, 71(3), 259-264.](https://www.tandfonline.com/doi/full/10.1080/00031305.2017.1305289)
+
+
+## Other Resources 
+
+- [`bayesrules`]() R package to assist learning with Bayes Rules! book.
+
+
+- [How Data Nerds Found A 131-Year-Old Sunken Treasure](https://fivethirtyeight.com/features/how-data-nerds-found-a-131-year-old-sunken-treasure/) is a video by FiveThirtyEight that explains how SS Central America was found using Bayesian methods. 
+
+
+
+## Editing the List
+
+If you would like to make suggestions to this list, please do so either by creating an issue on the [GitHub repo](https://www.github.com/mdogucu/undergrad-bayes) (prefered) or via email. Please note that this list specifically focuses on _undergraduate_ bayesian education. If you are making suggestions of a resource, please note how it is appropriate at the _undergraduate level_ if it is not obvious from the title (or abstract etc.). 
+

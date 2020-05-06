@@ -36,6 +36,8 @@ output:
 
 - [Stewart, S., & Stewart, W. (2014). Teaching Bayesian statistics to undergraduate students through debates. Innovations in Education and Teaching International, 51(6), 653-663.](https://www.tandfonline.com/doi/full/10.1080/14703297.2013.791553?mobileUi=0)
 
+[Stewart, W., & Stewart, S. (2014). Teaching Markov Chain Monte Carlo: Revealing the Basic Ideas Behind the Algorithm. PRIMUS, 24(1), 25-45.](https://www.tandfonline.com/doi/full/10.1080/10511970.2013.824054)
+
 - [Witmer, J. (2017). Bayes and MCMC for undergraduates. The American Statistician, 71(3), 259-264.](https://www.tandfonline.com/doi/full/10.1080/00031305.2017.1305289)
 
 

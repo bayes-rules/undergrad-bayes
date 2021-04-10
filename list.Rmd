@@ -16,24 +16,25 @@ output:
 
 ## Textbooks
 
-- Bayes Rules! 
+- [An Introduction to Bayesian Thinking: A Companion to the Statistics with R course](https://statswithr.github.io/book/)
+
+- [Bayes Rules! An Introduction to Bayesian Modeling with R](https://www.bayesrulesbook.com/)
 
 - [Probability and Bayesian Modeling by Jim Albert and Jingchen(Monika) Hu.](https://bayesball.github.io/BOOK/probability-a-measurement-of-uncertainty.html)
 
-- [An Introduction to Bayesian Thinking: A Companion to the Statistics with R course](https://statswithr.github.io/book/)
 
-## Courses Taught 
+
+## Course Websites
  
-- at University of California Irvine by [Mine Dogucu](http://mdogucu.ics.uci.edu/teaching/stats115-wi20/main.html)  
-- at Vassar College by [Jingchen Monika Hu](https://github.com/monika76five/Undergrad-Bayesian-Statistics)
-
+- University of California Irvine by [Mine Dogucu](https:stats115.com)  
+- Vassar College by [Jingchen Monika Hu](https://github.com/monika76five/Undergrad-Bayesian-Statistics)
 
 
 ## Papers
 
 - [Albert, J., & Hu, J. (2020). Bayesian Computing in the Statistics and Data Science Curriculum. arXiv preprint arXiv:2002.09716.](https://arxiv.org/abs/2002.09716)
 
-- [Bolstad, W. M. (2002). Teaching bayesian statistics to undergraduates: Who, what, where, when, why, and how. In Proceedings of the Sixth International Conference on Teaching of Statistics.](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.215.6479&rep=rep1&type=pdf)
+- [Bolstad, W. M. (2002). Teaching Bayesian statistics to undergraduates: Who, what, where, when, why, and how. In Proceedings of the Sixth International Conference on Teaching of Statistics.](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.215.6479&rep=rep1&type=pdf)
 
 - [Hoegh, A (2020). Why Bayesian ideas should be introduced in the
 Statistics curricula and how to do so. Journal of Statistics Education](https://amstat.tandfonline.com/doi/pdf/10.1080/10691898.2020.1841591)
@@ -48,19 +49,22 @@ Statistics curricula and how to do so. Journal of Statistics Education](https://
 
 - [Stewart, W., & Stewart, S. (2014). Teaching Markov Chain Monte Carlo: Revealing the Basic Ideas Behind the Algorithm. PRIMUS, 24(1), 25-45.](https://www.tandfonline.com/doi/full/10.1080/10511970.2013.824054)
 
+- [van Doorn, J., Matzke, D., & Wagenmakers, E. J. (2020). An in-class demonstration of Bayesian inference. Psychology Learning & Teaching, 19(1), 36-45.](https://journals.sagepub.com/doi/full/10.1177/1475725719848574)
+
 - [Witmer, J. (2017). Bayes and MCMC for undergraduates. The American Statistician, 71(3), 259-264.](https://www.tandfonline.com/doi/full/10.1080/00031305.2017.1305289)
 
 
 ## Other Resources 
 
-- [`bayesrules`]() R package to assist learning with Bayes Rules! book.
+- [`bayesrules`](https://github.com/mdogucu/bayesrules) R package to supplement learning with Bayes Rules! book.
 
 
 - [How Data Nerds Found A 131-Year-Old Sunken Treasure](https://fivethirtyeight.com/features/how-data-nerds-found-a-131-year-old-sunken-treasure/) is a video by FiveThirtyEight that explains how SS Central America was found using Bayesian methods. 
 
+- Undergraduate Bayesian Network: A Slack workspace to connect undergraduate Bayesian educators. If you are teaching a Bayesian course at the undergraduate level or interested in teaching one, please email [Mine Dogucu](https://www.minedogucu.com) to join.  
 
 
 ## Editing the List
 
-If you would like to make suggestions to this list, please do so either by creating an issue on the [GitHub repo](https://www.github.com/mdogucu/undergrad-bayes) (prefered) or via email. Please note that this list specifically focuses on _undergraduate_ bayesian education. If you are making suggestions of a resource, please note how it is appropriate at the _undergraduate level_ if it is not obvious from the title or abstract. 
+If you would like to make suggestions to this list, please do so either by creating an issue or a pull request on the [GitHub repo](https://www.github.com/mdogucu/undergrad-bayes) (prefered) or via email. Please note that this list specifically focuses on _undergraduate_ Bayesian education. If you are making suggestions of a resource, please note how it is appropriate at the _undergraduate level_ if it is not obvious from the title or abstract. 
 

@@ -1,0 +1,11 @@
+---
+title: "Undergraduate Bayesian Education Network"
+description: |
+  A place to connect with other Bayesian educators
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Undergraduate Bayesian Network: A Slack workspace to connect undergraduate Bayesian educators. If you are teaching a Bayesian course at the undergraduate level or interested in teaching one, please email [Mine Dogucu](https://www.minedogucu.com) to join.  

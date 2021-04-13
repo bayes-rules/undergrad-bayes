@@ -1,16 +1,7 @@
 ---
-title: "Resources for Undergraduate Bayesian Education"
-author: "[Mine Dogucu](https://www.minedogucu.com)"
-date: "last updated: `r format(Sys.time(), '%B %d, %Y')`"
-output: 
-  html_document:
-    toc: true
-    toc_depth: 3
-    toc_float: 
-      collapsed: false
-      smooth_scroll: false
-    theme:  default
-    highlight: null
+title: "Resources"
+description: |
+  Publications, Resources, and Tools for Undergraduate Bayesian Education
 ---
 
 
@@ -62,7 +53,6 @@ Statistics curricula and how to do so. Journal of Statistics Education](https://
 - [How Data Nerds Found A 131-Year-Old Sunken Treasure](https://fivethirtyeight.com/features/how-data-nerds-found-a-131-year-old-sunken-treasure/) is a video by FiveThirtyEight that explains how SS Central America was found using Bayesian methods. 
 
 - [The Learning Bayesian Statistics Podcast](https://www.learnbayesstats.com/) 
-- Undergraduate Bayesian Network: A Slack workspace to connect undergraduate Bayesian educators. If you are teaching a Bayesian course at the undergraduate level or interested in teaching one, please email [Mine Dogucu](https://www.minedogucu.com) to join.  
 
 
 ## Editing the List

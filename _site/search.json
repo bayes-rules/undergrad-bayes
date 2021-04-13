@@ -1,0 +1,28 @@
+{
+  "articles": [
+    {
+      "path": "index.html",
+      "title": "Undergraduate Bayesian Education",
+      "author": [],
+      "contents": "\nThis website is intended for educators who teach or are interested in teaching Bayesian Statistics at the undergraduate level. You can find resources and join the Undergraduate Bayesian Education Network if you are interested.\n\n\n\n",
+      "last_modified": "2021-04-13T12:46:42-07:00"
+    },
+    {
+      "path": "network.html",
+      "title": "Undergraduate Bayesian Education Network",
+      "description": "A place to connect with other Bayesian educators",
+      "author": [],
+      "contents": "\nUndergraduate Bayesian Network: A Slack workspace to connect undergraduate Bayesian educators. If you are teaching a Bayesian course at the undergraduate level or interested in teaching one, please email Mine Dogucu to join.\n\n\n\n",
+      "last_modified": "2021-04-13T12:40:03-07:00"
+    },
+    {
+      "path": "resources.html",
+      "title": "Resources",
+      "description": "Publications, Resources, and Tools for Undergraduate Bayesian Education",
+      "author": [],
+      "contents": "\nTextbooks\nAn Introduction to Bayesian Thinking: A Companion to the Statistics with R course\nBayes Rules! An Introduction to Bayesian Modeling with R\nProbability and Bayesian Modeling by Jim Albert and Jingchen(Monika) Hu.\nCourse Websites\nUniversity of California Irvine by Mine Dogucu\nVassar College by Jingchen Monika Hu\nPapers\nAlbert, J., & Hu, J. (2020). Bayesian Computing in the Statistics and Data Science Curriculum. arXiv preprint arXiv:2002.09716.\nBolstad, W. M. (2002). Teaching Bayesian statistics to undergraduates: Who, what, where, when, why, and how. In Proceedings of the Sixth International Conference on Teaching of Statistics.\nHoegh, A (2020). Why Bayesian ideas should be introduced in the Statistics curricula and how to do so. Journal of Statistics Education\nHu, J. (2019). A Bayesian Statistics Course for Undergraduates: Bayesian Thinking, Computing and Research. arXiv preprint arXiv:1910.05818.\nPage, R., & Satake, E. (2017). Beyond P Values and Hypothesis Testing: Using the Minimum Bayes Factor to Teach Statistical Inference in Undergraduate Introductory Statistics Courses. Journal of Education and Learning, 6(4), 254-266.\nSarafoglou, A., van der Heijden, A., Draws, T., Cornelisse, J., Wagenmakers, E. J., & Marsman, M. (2018). Combine Statistical Thinking With Scientific Practice: A Protocol of a Bayesian Thesis Project For Undergraduate Students. arXiv preprint arXiv:1810.07496.\nStewart, S., & Stewart, W. (2014). Teaching Bayesian statistics to undergraduate students through debates. Innovations in Education and Teaching International, 51(6), 653-663.\nStewart, W., & Stewart, S. (2014). Teaching Markov Chain Monte Carlo: Revealing the Basic Ideas Behind the Algorithm. PRIMUS, 24(1), 25-45.\nvan Doorn, J., Matzke, D., & Wagenmakers, E. J. (2020). An in-class demonstration of Bayesian inference. Psychology Learning & Teaching, 19(1), 36-45.\nWitmer, J. (2017). Bayes and MCMC for undergraduates. The American Statistician, 71(3), 259-264.\nOther Resources\nbayesrules R package to supplement learning with Bayes Rules! book.\nHow Data Nerds Found A 131-Year-Old Sunken Treasure is a video by FiveThirtyEight that explains how SS Central America was found using Bayesian methods.\nThe Learning Bayesian Statistics Podcast\nEditing the List\nIf you would like to make suggestions to this list, please do so either by creating an issue or a pull request on the GitHub repo (prefered) or via email. Please note that this list specifically focuses on undergraduate Bayesian education. If you are making suggestions of a resource, please note how it is appropriate at the undergraduate level if it is not obvious from the title or abstract.\n\n\n\n",
+      "last_modified": "2021-04-13T12:47:29-07:00"
+    }
+  ],
+  "collections": []
+}

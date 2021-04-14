@@ -1,7 +1,7 @@
 ---
 title: "Resources"
 description: |
-  Publications, Resources, and Tools for Undergraduate Bayesian Education
+  Bayesian Course Websites and Syllabi at the Undergraduate Level
 
 ---
 

@@ -9,3 +9,5 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 Undergraduate Bayesian Network: A Slack workspace to connect undergraduate Bayesian educators. If you are teaching a Bayesian course at the undergraduate level or interested in teaching one, please email [Alicia Johnson](mailto:ajohns24@macalester.edu), [Miles Ott](mailto:mott@smith.edu) or [Mine Dogucu](mailto:mdogucu@uci.edu){target="_blank"} to join the network.  
+
+

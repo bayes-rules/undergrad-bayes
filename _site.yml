@@ -10,5 +10,15 @@ navbar:
     - text: "Network"
       href: network.html
     - text: "Resources"
-      href: resources.html
+      menu:
+        - text: "Textbooks"
+          href: textbooks.html
+        - text: "Courses"
+          href: courses.html
+        - text: "Papers"
+          href: papers.html
+        - text: "Other"
+          href: other.html
+    - icon: fab fa-github
+      href: https://github.com/mdogucu/undergrad-bayes
 output: distill::distill_article

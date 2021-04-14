@@ -1,0 +1,20 @@
+---
+title: "Resources"
+description: |
+  Other Resources for Undergraduate Bayesian Education
+---
+
+## Other Resources 
+
+- [`bayesrules`](https://github.com/mdogucu/bayesrules){target="_blank"} R package to supplement learning with Bayes Rules! book.
+
+
+- [How Data Nerds Found A 131-Year-Old Sunken Treasure](https://fivethirtyeight.com/features/how-data-nerds-found-a-131-year-old-sunken-treasure/){target="_blank"} is a video by FiveThirtyEight that explains how SS Central America was found using Bayesian methods. 
+
+- [The Learning Bayesian Statistics Podcast](https://www.learnbayesstats.com/){target="_blank"} 
+
+
+## Editing the List
+
+If you would like to make suggestions to this list, please do so either by creating an issue or a pull request on the [GitHub repo](https://www.github.com/mdogucu/undergrad-bayes){target="_blank"} (prefered) or via email. Please note that this list specifically focuses on _undergraduate_ Bayesian education. If you are making suggestions of a resource, please note how it is appropriate at the _undergraduate level_ if it is not obvious from the title or abstract. 
+

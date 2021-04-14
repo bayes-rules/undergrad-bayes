@@ -1,43 +1,8 @@
 ---
 title: "Resources"
 description: |
-  Publications, Resources, and Tools for Undergraduate Bayesian Education
-output:
-  distill::distill_article:
-    toc: true
-    toc_depth: 2
+  Papers on Undergraduate Bayesian Education
 ---
-
-## Textbooks
-
-- [A First Course in Bayesian Statistical Methods](https://pdhoff.github.io/book/){target="_blank"}
-
-- [An Introduction to Bayesian Thinking: A Companion to the Statistics with R course](https://statswithr.github.io/book/){target="_blank"}
-
-- [Bayes Rules! An Introduction to Bayesian Modeling with R](https://www.bayesrulesbook.com/){target="_blank"}
-
-- [Bayesian Data Analysis](http://www.stat.columbia.edu/~gelman/book/){target="_blank"}
-
-- [Doing Bayesian data analysis: A tutorial with R, JAGS, and Stan](https://jkkweb.sitehost.iu.edu/DoingBayesianDataAnalysis/){target="_blank"}
-
-- [Probability and Bayesian Modeling](https://bayesball.github.io/BOOK/probability-a-measurement-of-uncertainty.html){target="_blank"}
-
-- [Statistical Rethinking: A Bayesian Course with Examples in R and Stan](https://xcelab.net/rm/statistical-rethinking/){target="_blank"}
-
-
-
-## Courses
- 
-- Carleton College by [Adam Loy](https://github.com/aloy/math315-fall2019){target="_blank"}
-
-- Duke University by [Alexander Volfovsky](https://www2.stat.duke.edu/courses/Fall18/sta601.001//){target="_blank"}
-
-- Smith College by [Miles Ott](https://www.dropbox.com/s/bj91cfk4tkfjwmy/SDS%20390%20Bayes%20Fall%202020%20Syllabus.pdf?dl=0)
-
-- University of California Irvine by [Mine Dogucu](https:stats115.com){target="_blank"}  
-
-- Vassar College by [Jingchen Monika Hu](https://github.com/monika76five/Undergrad-Bayesian-Statistics){target="_blank"}
-
 
 ## Papers
 
@@ -63,16 +28,6 @@ Statistics curricula and how to do so. Journal of Statistics Education](https://
 - [van Doorn, J., Matzke, D., & Wagenmakers, E. J. (2020). An in-class demonstration of Bayesian inference. Psychology Learning & Teaching, 19(1), 36-45.](https://journals.sagepub.com/doi/full/10.1177/1475725719848574){target="_blank"}
 
 - [Witmer, J. (2017). Bayes and MCMC for undergraduates. The American Statistician, 71(3), 259-264.](https://www.tandfonline.com/doi/full/10.1080/00031305.2017.1305289){target="_blank"}
-
-
-## Other Resources 
-
-- [`bayesrules`](https://github.com/mdogucu/bayesrules){target="_blank"} R package to supplement learning with Bayes Rules! book.
-
-
-- [How Data Nerds Found A 131-Year-Old Sunken Treasure](https://fivethirtyeight.com/features/how-data-nerds-found-a-131-year-old-sunken-treasure/){target="_blank"} is a video by FiveThirtyEight that explains how SS Central America was found using Bayesian methods. 
-
-- [The Learning Bayesian Statistics Podcast](https://www.learnbayesstats.com/){target="_blank"} 
 
 
 ## Editing the List

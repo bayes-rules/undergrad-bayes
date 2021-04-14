@@ -107,7 +107,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   <!--radix_placeholder_rmarkdown_metadata-->
 
   <script type="text/json" id="radix-rmarkdown-metadata">
-  {"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","description"]}},"value":[{"type":"character","attributes":{},"value":["Resources"]},{"type":"character","attributes":{},"value":["Publications, Resources, and Tools for Undergraduate Bayesian Education"]}]}
+  {"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","description","output"]}},"value":[{"type":"character","attributes":{},"value":["Resources"]},{"type":"character","attributes":{},"value":["Publications, Resources, and Tools for Undergraduate Bayesian Education\n"]},{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["distill::distill_article"]}},"value":[{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["toc","toc_depth"]}},"value":[{"type":"logical","attributes":{},"value":[true]},{"type":"integer","attributes":{},"value":[2]}]}]}]}
   </script>
   <!--/radix_placeholder_rmarkdown_metadata-->
   <!--radix_placeholder_navigation_in_header-->
@@ -2065,7 +2065,22 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 <div class="nav-right">
 <a href="index.html">Home</a>
 <a href="network.html">Network</a>
-<a href="resources.html">Resources</a>
+<div class="nav-dropdown">
+<button class="nav-dropbtn">
+Resources
+ 
+<span class="down-arrow">&#x25BE;</span>
+</button>
+<div class="nav-dropdown-content">
+<a href="textbooks.html">Textbooks</a>
+<a href="courses.html">Courses</a>
+<a href="papers.html">Papers</a>
+<a href="other.html">Other</a>
+</div>
+</div>
+<a href="https://github.com/mdogucu/undergrad-bayes">
+<i class="fab fa-github" aria-hidden="true"></i>
+</a>
 <a href="javascript:void(0);" class="nav-toggle">&#9776;</a>
 </div>
 </nav>
@@ -2083,39 +2098,58 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 
 
 <div class="d-article">
+<div class="d-contents d-contents-float">
+<nav class="l-text toc figcaption" id="TOC">
+<h3>Contents</h3>
+<ul>
+<li><a href="#textbooks">Textbooks</a></li>
+<li><a href="#courses">Courses</a></li>
+<li><a href="#papers">Papers</a></li>
+<li><a href="#other-resources">Other Resources</a></li>
+<li><a href="#editing-the-list">Editing the List</a></li>
+</ul>
+</nav>
+</div>
 <h2 id="textbooks">Textbooks</h2>
 <ul>
-<li><p><a href="https://statswithr.github.io/book/">An Introduction to Bayesian Thinking: A Companion to the Statistics with R course</a></p></li>
-<li><p><a href="https://www.bayesrulesbook.com/">Bayes Rules! An Introduction to Bayesian Modeling with R</a></p></li>
-<li><p><a href="https://bayesball.github.io/BOOK/probability-a-measurement-of-uncertainty.html">Probability and Bayesian Modeling by Jim Albert and Jingchen(Monika) Hu.</a></p></li>
+<li><p><a href="https://pdhoff.github.io/book/" target="_blank">A First Course in Bayesian Statistical Methods</a></p></li>
+<li><p><a href="https://statswithr.github.io/book/" target="_blank">An Introduction to Bayesian Thinking: A Companion to the Statistics with R course</a></p></li>
+<li><p><a href="https://www.bayesrulesbook.com/" target="_blank">Bayes Rules! An Introduction to Bayesian Modeling with R</a></p></li>
+<li><p><a href="http://www.stat.columbia.edu/~gelman/book/" target="_blank">Bayesian Data Analysis</a></p></li>
+<li><p><a href="https://jkkweb.sitehost.iu.edu/DoingBayesianDataAnalysis/" target="_blank">Doing Bayesian data analysis: A tutorial with R, JAGS, and Stan</a></p></li>
+<li><p><a href="https://bayesball.github.io/BOOK/probability-a-measurement-of-uncertainty.html" target="_blank">Probability and Bayesian Modeling</a></p></li>
+<li><p><a href="https://xcelab.net/rm/statistical-rethinking/" target="_blank">Statistical Rethinking: A Bayesian Course with Examples in R and Stan</a></p></li>
 </ul>
-<h2 id="course-websites">Course Websites</h2>
+<h2 id="courses">Courses</h2>
 <ul>
-<li>University of California Irvine by <a href="https:stats115.com">Mine Dogucu</a><br />
-</li>
-<li>Vassar College by <a href="https://github.com/monika76five/Undergrad-Bayesian-Statistics">Jingchen Monika Hu</a></li>
+<li><p>Carleton College by <a href="https://github.com/aloy/math315-fall2019" target="_blank">Adam Loy</a></p></li>
+<li><p>Duke University by <a href="https://www2.stat.duke.edu/courses/Fall18/sta601.001//" target="_blank">Alexander Volfovsky</a></p></li>
+<li><p>Smith College by <a href="https://www.dropbox.com/s/bj91cfk4tkfjwmy/SDS%20390%20Bayes%20Fall%202020%20Syllabus.pdf?dl=0">Miles Ott</a></p></li>
+<li><p>University of California Irvine by <a href="https:stats115.com" target="_blank">Mine Dogucu</a></p></li>
+<li><p>Vassar College by <a href="https://github.com/monika76five/Undergrad-Bayesian-Statistics" target="_blank">Jingchen Monika Hu</a></p></li>
 </ul>
 <h2 id="papers">Papers</h2>
 <ul>
-<li><p><a href="https://arxiv.org/abs/2002.09716">Albert, J., &amp; Hu, J. (2020). Bayesian Computing in the Statistics and Data Science Curriculum. arXiv preprint arXiv:2002.09716.</a></p></li>
-<li><p><a href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.215.6479&amp;rep=rep1&amp;type=pdf">Bolstad, W. M. (2002). Teaching Bayesian statistics to undergraduates: Who, what, where, when, why, and how. In Proceedings of the Sixth International Conference on Teaching of Statistics.</a></p></li>
-<li><p><a href="https://amstat.tandfonline.com/doi/pdf/10.1080/10691898.2020.1841591">Hoegh, A (2020). Why Bayesian ideas should be introduced in the Statistics curricula and how to do so. Journal of Statistics Education</a></p></li>
-<li><p><a href="https://arxiv.org/abs/1910.05818">Hu, J. (2019). A Bayesian Statistics Course for Undergraduates: Bayesian Thinking, Computing and Research. arXiv preprint arXiv:1910.05818.</a></p></li>
-<li><p><a href="https://eric.ed.gov/?id=EJ1150444">Page, R., &amp; Satake, E. (2017). Beyond P Values and Hypothesis Testing: Using the Minimum Bayes Factor to Teach Statistical Inference in Undergraduate Introductory Statistics Courses. Journal of Education and Learning, 6(4), 254-266.</a></p></li>
-<li><p><a href="https://arxiv.org/abs/1810.07496">Sarafoglou, A., van der Heijden, A., Draws, T., Cornelisse, J., Wagenmakers, E. J., &amp; Marsman, M. (2018). Combine Statistical Thinking With Scientific Practice: A Protocol of a Bayesian Thesis Project For Undergraduate Students. arXiv preprint arXiv:1810.07496.</a></p></li>
-<li><p><a href="https://www.tandfonline.com/doi/full/10.1080/14703297.2013.791553?mobileUi=0">Stewart, S., &amp; Stewart, W. (2014). Teaching Bayesian statistics to undergraduate students through debates. Innovations in Education and Teaching International, 51(6), 653-663.</a></p></li>
-<li><p><a href="https://www.tandfonline.com/doi/full/10.1080/10511970.2013.824054">Stewart, W., &amp; Stewart, S. (2014). Teaching Markov Chain Monte Carlo: Revealing the Basic Ideas Behind the Algorithm. PRIMUS, 24(1), 25-45.</a></p></li>
-<li><p><a href="https://journals.sagepub.com/doi/full/10.1177/1475725719848574">van Doorn, J., Matzke, D., &amp; Wagenmakers, E. J. (2020). An in-class demonstration of Bayesian inference. Psychology Learning &amp; Teaching, 19(1), 36-45.</a></p></li>
-<li><p><a href="https://www.tandfonline.com/doi/full/10.1080/00031305.2017.1305289">Witmer, J. (2017). Bayes and MCMC for undergraduates. The American Statistician, 71(3), 259-264.</a></p></li>
+<li><p><a href="https://arxiv.org/abs/2002.09716" target="_blank">Albert, J., &amp; Hu, J. (2020). Bayesian Computing in the Statistics and Data Science Curriculum. arXiv preprint arXiv:2002.09716.</a></p></li>
+<li><p><a href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.215.6479&amp;rep=rep1&amp;type=pdf" target="_blank">Bolstad, W. M. (2002). Teaching Bayesian statistics to undergraduates: Who, what, where, when, why, and how. In Proceedings of the Sixth International Conference on Teaching of Statistics.</a></p></li>
+<li><p><a href="https://amstat.tandfonline.com/doi/pdf/10.1080/10691898.2020.1841591" target="_blank">Hoegh, A (2020). Why Bayesian ideas should be introduced in the Statistics curricula and how to do so. Journal of Statistics Education</a></p></li>
+<li><p><a href="https://arxiv.org/abs/1910.05818" target="_blank">Hu, J. (2019). A Bayesian Statistics Course for Undergraduates: Bayesian Thinking, Computing and Research. arXiv preprint arXiv:1910.05818.</a></p></li>
+<li><p><a href="https://amstat.tandfonline.com/doi/pdf/10.1080/10691898.2020.1845499" target="_blank">Johnson, A., Rundel, C., Hu, J., Ross, K., &amp; Rossman, A. (2020). Teaching an Undergraduate Course in Bayesian Statistics: A Panel Discussion. Journal of Statistics Education, 28(3), 251-261.</a></p></li>
+<li><p><a href="https://eric.ed.gov/?id=EJ1150444" target="_blank">Page, R., &amp; Satake, E. (2017). Beyond P Values and Hypothesis Testing: Using the Minimum Bayes Factor to Teach Statistical Inference in Undergraduate Introductory Statistics Courses. Journal of Education and Learning, 6(4), 254-266.</a></p></li>
+<li><p><a href="https://arxiv.org/abs/1810.07496" target="_blank">Sarafoglou, A., van der Heijden, A., Draws, T., Cornelisse, J., Wagenmakers, E. J., &amp; Marsman, M. (2018). Combine Statistical Thinking With Scientific Practice: A Protocol of a Bayesian Thesis Project For Undergraduate Students. arXiv preprint arXiv:1810.07496.</a></p></li>
+<li><p><a href="https://www.tandfonline.com/doi/full/10.1080/14703297.2013.791553?mobileUi=0" target="_blank">Stewart, S., &amp; Stewart, W. (2014). Teaching Bayesian statistics to undergraduate students through debates. Innovations in Education and Teaching International, 51(6), 653-663.</a></p></li>
+<li><p><a href="https://www.tandfonline.com/doi/full/10.1080/10511970.2013.824054" target="_blank">Stewart, W., &amp; Stewart, S. (2014). Teaching Markov Chain Monte Carlo: Revealing the Basic Ideas Behind the Algorithm. PRIMUS, 24(1), 25-45.</a></p></li>
+<li><p><a href="https://journals.sagepub.com/doi/full/10.1177/1475725719848574" target="_blank">van Doorn, J., Matzke, D., &amp; Wagenmakers, E. J. (2020). An in-class demonstration of Bayesian inference. Psychology Learning &amp; Teaching, 19(1), 36-45.</a></p></li>
+<li><p><a href="https://www.tandfonline.com/doi/full/10.1080/00031305.2017.1305289" target="_blank">Witmer, J. (2017). Bayes and MCMC for undergraduates. The American Statistician, 71(3), 259-264.</a></p></li>
 </ul>
 <h2 id="other-resources">Other Resources</h2>
 <ul>
-<li><p><a href="https://github.com/mdogucu/bayesrules"><code>bayesrules</code></a> R package to supplement learning with Bayes Rules! book.</p></li>
-<li><p><a href="https://fivethirtyeight.com/features/how-data-nerds-found-a-131-year-old-sunken-treasure/">How Data Nerds Found A 131-Year-Old Sunken Treasure</a> is a video by FiveThirtyEight that explains how SS Central America was found using Bayesian methods.</p></li>
-<li><p><a href="https://www.learnbayesstats.com/">The Learning Bayesian Statistics Podcast</a></p></li>
+<li><p><a href="https://github.com/mdogucu/bayesrules" target="_blank"><code>bayesrules</code></a> R package to supplement learning with Bayes Rules! book.</p></li>
+<li><p><a href="https://fivethirtyeight.com/features/how-data-nerds-found-a-131-year-old-sunken-treasure/" target="_blank">How Data Nerds Found A 131-Year-Old Sunken Treasure</a> is a video by FiveThirtyEight that explains how SS Central America was found using Bayesian methods.</p></li>
+<li><p><a href="https://www.learnbayesstats.com/" target="_blank">The Learning Bayesian Statistics Podcast</a></p></li>
 </ul>
 <h2 id="editing-the-list">Editing the List</h2>
-<p>If you would like to make suggestions to this list, please do so either by creating an issue or a pull request on the <a href="https://www.github.com/mdogucu/undergrad-bayes">GitHub repo</a> (prefered) or via email. Please note that this list specifically focuses on <em>undergraduate</em> Bayesian education. If you are making suggestions of a resource, please note how it is appropriate at the <em>undergraduate level</em> if it is not obvious from the title or abstract.</p>
+<p>If you would like to make suggestions to this list, please do so either by creating an issue or a pull request on the <a href="https://www.github.com/mdogucu/undergrad-bayes" target="_blank">GitHub repo</a> (prefered) or via email. Please note that this list specifically focuses on <em>undergraduate</em> Bayesian education. If you are making suggestions of a resource, please note how it is appropriate at the <em>undergraduate level</em> if it is not obvious from the title or abstract.</p>
 <div class="sourceCode" id="cb1"><pre class="sourceCode r distill-force-highlighting-css"><code class="sourceCode r"></code></pre></div>
 <!--radix_placeholder_article_footer-->
 <!--/radix_placeholder_article_footer-->

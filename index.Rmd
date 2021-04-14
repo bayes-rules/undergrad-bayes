@@ -6,7 +6,13 @@ site: distill::distill_website
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 
-
 ```
 
-This website is intended for educators who teach or are interested in teaching Bayesian Statistics at the undergraduate level. You can find [resources](resources.html) and join the [Undergraduate Bayesian Education Network](network.html) if you are interested. 
+```{r, fig.align='center', out.width="70%"}
+knitr::include_graphics("img/caterpillar.jpg")
+```
+
+This website is intended for educators who teach or are interested in teaching Bayesian Statistics at the undergraduate level. You can find resources and join the [Undergraduate Bayesian Education Network](network.html). 
+
+
+  

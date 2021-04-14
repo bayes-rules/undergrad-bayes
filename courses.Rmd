@@ -1,0 +1,26 @@
+---
+title: "Resources"
+description: |
+  Publications, Resources, and Tools for Undergraduate Bayesian Education
+
+---
+
+
+## Courses
+ 
+- Carleton College by [Adam Loy](https://github.com/aloy/math315-fall2019){target="_blank"}
+
+- Duke University by [Alexander Volfovsky](https://www2.stat.duke.edu/courses/Fall18/sta601.001//){target="_blank"}
+
+- Smith College by [Miles Ott](https://www.dropbox.com/s/bj91cfk4tkfjwmy/SDS%20390%20Bayes%20Fall%202020%20Syllabus.pdf?dl=0)
+
+- University of California Irvine by [Mine Dogucu](https:stats115.com){target="_blank"}  
+
+- Vassar College by [Jingchen Monika Hu](https://github.com/monika76five/Undergrad-Bayesian-Statistics){target="_blank"}
+
+
+
+## Editing the List
+
+If you would like to make suggestions to this list, please do so either by creating an issue or a pull request on the [GitHub repo](https://www.github.com/mdogucu/undergrad-bayes){target="_blank"} (prefered) or via email. Please note that this list specifically focuses on _undergraduate_ Bayesian education. If you are making suggestions of a resource, please note how it is appropriate at the _undergraduate level_ if it is not obvious from the title or abstract. 
+

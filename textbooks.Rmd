@@ -1,0 +1,27 @@
+---
+title: "Resources"
+description: |
+  Textbooks for Undergraduate Bayesian Education
+---
+
+## Textbooks
+
+- [A First Course in Bayesian Statistical Methods](https://pdhoff.github.io/book/){target="_blank"}
+
+- [An Introduction to Bayesian Thinking: A Companion to the Statistics with R course](https://statswithr.github.io/book/){target="_blank"}
+
+- [Bayes Rules! An Introduction to Bayesian Modeling with R](https://www.bayesrulesbook.com/){target="_blank"}
+
+- [Bayesian Data Analysis](http://www.stat.columbia.edu/~gelman/book/){target="_blank"}
+
+- [Doing Bayesian data analysis: A tutorial with R, JAGS, and Stan](https://jkkweb.sitehost.iu.edu/DoingBayesianDataAnalysis/){target="_blank"}
+
+- [Probability and Bayesian Modeling](https://bayesball.github.io/BOOK/probability-a-measurement-of-uncertainty.html){target="_blank"}
+
+- [Statistical Rethinking: A Bayesian Course with Examples in R and Stan](https://xcelab.net/rm/statistical-rethinking/){target="_blank"}
+
+
+## Editing the List
+
+If you would like to make suggestions to this list, please do so either by creating an issue or a pull request on the [GitHub repo](https://www.github.com/mdogucu/undergrad-bayes){target="_blank"} (prefered) or via email. Please note that this list specifically focuses on _undergraduate_ Bayesian education. If you are making suggestions of a resource, please note how it is appropriate at the _undergraduate level_ if it is not obvious from the title or abstract. 
+

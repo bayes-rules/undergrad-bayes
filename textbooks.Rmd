@@ -20,6 +20,8 @@ description: |
 
 - [Statistical Rethinking: A Bayesian Course with Examples in R and Stan](https://xcelab.net/rm/statistical-rethinking/){target="_blank"}
 
+- [Think Bayes in Python](https://greenteapress.com/wp/think-bayes/){target="_blank"}
+
 
 ## Editing the List
 

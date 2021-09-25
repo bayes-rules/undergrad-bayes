@@ -6,7 +6,7 @@ description: |
 
 ## Textbooks
 
-- [A Business Analyst's Introduction To Business Analytics: Intro To Bayesian Business Analytics in the R Ecosystem](https://www.causact.com/)
+- [A Business Analyst's Introduction To Business Analytics: Intro To Bayesian Business Analytics in the R Ecosystem](https://www.causact.com/){target="_blank"}
 
 - [A First Course in Bayesian Statistical Methods](https://pdhoff.github.io/book/){target="_blank"}
 

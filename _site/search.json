@@ -52,8 +52,8 @@
       "title": "Resources",
       "description": "Textbooks for Undergraduate Bayesian Education",
       "author": [],
-      "contents": "\nTextbooks\nA First Course in Bayesian Statistical Methods\nAn Introduction to Bayesian Thinking: A Companion to the Statistics with R course\nBayes Rules! An Introduction to Bayesian Modeling with R\nBayesian Data Analysis\nDoing Bayesian data analysis: A tutorial with R, JAGS, and Stan\nProbability and Bayesian Modeling\nStatistical Rethinking: A Bayesian Course with Examples in R and Stan\nThink Bayes in Python\nEditing the List\nIf you would like to make suggestions to this list, please do so either by creating an issue or a pull request on the GitHub repo (prefered) or via email. Please note that this list specifically focuses on undergraduate Bayesian education. If you are making suggestions of a resource, please note how it is appropriate at the undergraduate level if it is not obvious from the title or abstract.\n\n\n\n",
-      "last_modified": "2021-07-21T11:36:11-07:00"
+      "contents": "\nTextbooks\nA Business Analyst’s Introduction To Business Analytics: Intro To Bayesian Business Analytics in the R Ecosystem\nA First Course in Bayesian Statistical Methods\nAn Introduction to Bayesian Thinking: A Companion to the Statistics with R course\nBayes Rules! An Introduction to Bayesian Modeling with R\nBayesian Data Analysis\nDoing Bayesian data analysis: A tutorial with R, JAGS, and Stan\nProbability and Bayesian Modeling\nStatistical Rethinking: A Bayesian Course with Examples in R and Stan\nThink Bayes in Python\nEditing the List\nIf you would like to make suggestions to this list, please do so either by creating an issue or a pull request on the GitHub repo (prefered) or via email. Please note that this list specifically focuses on undergraduate Bayesian education. If you are making suggestions of a resource, please note how it is appropriate at the undergraduate level if it is not obvious from the title or abstract.\n\n\n\n",
+      "last_modified": "2021-09-25T12:45:42-07:00"
     }
   ],
   "collections": []

@@ -19,6 +19,8 @@ Statistics curricula and how to do so. Journal of Statistics Education](https://
 
 - [Page, R., & Satake, E. (2017). Beyond P Values and Hypothesis Testing: Using the Minimum Bayes Factor to Teach Statistical Inference in Undergraduate Introductory Statistics Courses. Journal of Education and Learning, 6(4), 254-266.](https://eric.ed.gov/?id=EJ1150444){target="_blank"}
 
+- [Rouder, J.N. & Morey, R.D. (2019). Teaching Bayes’ Theorem: Strength of Evidence as Predictive Accuracy ](https://www.tandfonline.com/doi/10.1080/00031305.2017.1341334){target="_blank"}
+
 - [Sarafoglou, A., van der Heijden, A., Draws, T., Cornelisse, J., Wagenmakers, E. J., & Marsman, M. (2018). Combine Statistical Thinking With Scientific Practice: A Protocol of a Bayesian Thesis Project For Undergraduate Students. arXiv preprint arXiv:1810.07496.](https://arxiv.org/abs/1810.07496){target="_blank"}
 
 - [Stewart, S., & Stewart, W. (2014). Teaching Bayesian statistics to undergraduate students through debates. Innovations in Education and Teaching International, 51(6), 653-663.](https://www.tandfonline.com/doi/full/10.1080/14703297.2013.791553?mobileUi=0){target="_blank"}

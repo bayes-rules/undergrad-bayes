@@ -10,11 +10,13 @@ description: |
 
 - [Bolstad, W. M. (2002). Teaching Bayesian statistics to undergraduates: Who, what, where, when, why, and how. In Proceedings of the Sixth International Conference on Teaching of Statistics.](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.215.6479&rep=rep1&type=pdf){target="_blank"}
 
-- [Dogucu, M. & Hu, J. (2021). The Current State of Undergraduate Bayesian Education and Recommendations for the Future.](https://arxiv.org/abs/2109.00848){target="_blank"}
+- [Dogucu, M. & Hu, J. (In Press). The Current State of Undergraduate Bayesian Education and Recommendations for the Future. The American Statistician](https://www.tandfonline.com/doi/full/10.1080/00031305.2022.2089232){target="_blank"}
 
 - [Hoegh, A (2020). Why Bayesian ideas should be introduced in the Statistics curricula and how to do so. Journal of Statistics Education](https://amstat.tandfonline.com/doi/pdf/10.1080/10691898.2020.1841591){target="_blank"}
 
-- [Hu, J. (2019). A Bayesian Statistics Course for Undergraduates: Bayesian Thinking, Computing and Research. arXiv preprint arXiv:1910.05818.](https://arxiv.org/abs/1910.05818){target="_blank"}
+- [Hu, J. and Dogucu, M. (2022). Content and computing outline of two undergraduate Bayesian courses: Tools, examples, and recommendations. Stat.](https://onlinelibrary.wiley.com/doi/full/10.1002/sta4.452){target="_blank"}
+
+- [Hu, J. (2020). A Bayesian Statistics Course for Undergraduates: Bayesian Thinking, Computing and Research. Journal of Statistics Education.](https://www.tandfonline.com/doi/full/10.1080/10691898.2020.1817815){target="_blank"}
 
 - [Johnson, A., Rundel, C., Hu, J., Ross, K., & Rossman, A. (2020). Teaching an Undergraduate Course in Bayesian Statistics: A Panel Discussion. Journal of Statistics Education, 28(3), 251-261.](https://amstat.tandfonline.com/doi/pdf/10.1080/10691898.2020.1845499){target="_blank"}
 

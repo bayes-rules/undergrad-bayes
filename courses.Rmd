@@ -12,7 +12,7 @@ description: |
 
 - Duke University by [Alexander Volfovsky](https://www2.stat.duke.edu/courses/Fall18/sta601.001//){target="_blank"}
 
-- Iowa State Universite by [Kate Cowles](https://stat.uiowa.edu/syllabi-stat4520-22s138-bayesian-statistics){target="_blank"}
+- University of Iowa by [Kate Cowles](https://stat.uiowa.edu/syllabi-stat4520-22s138-bayesian-statistics){target="_blank"}
 
 - Smith College by [Miles Ott](https://www.dropbox.com/s/bj91cfk4tkfjwmy/SDS%20390%20Bayes%20Fall%202020%20Syllabus.pdf?dl=0){target="_blank"}
 

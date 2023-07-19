@@ -6,11 +6,11 @@ description: |
 
 ## Papers
 
-- [Albert, J., & Hu, J. (2020). Bayesian Computing in the Statistics and Data Science Curriculum. arXiv preprint arXiv:2002.09716.](https://arxiv.org/abs/2002.09716){target="_blank"}
+- [Albert, J., & Hu, J. (2020). Bayesian Computing in the Undergraduate Statistics Curriculum. Journal of Statistics and Data Science Education.](https://www.tandfonline.com/doi/full/10.1080/10691898.2020.1847008){target="_blank"}
 
 - [Bolstad, W. M. (2002). Teaching Bayesian statistics to undergraduates: Who, what, where, when, why, and how. In Proceedings of the Sixth International Conference on Teaching of Statistics.](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.215.6479&rep=rep1&type=pdf){target="_blank"}
 
-- [Dogucu, M. & Hu, J. (In Press). The Current State of Undergraduate Bayesian Education and Recommendations for the Future. The American Statistician](https://www.tandfonline.com/doi/full/10.1080/00031305.2022.2089232){target="_blank"}
+- [Dogucu, M. & Hu, J. (2022). The Current State of Undergraduate Bayesian Education and Recommendations for the Future. The American Statistician](https://www.tandfonline.com/doi/full/10.1080/00031305.2022.2089232){target="_blank"}
 
 - [Hoegh, A (2020). Why Bayesian ideas should be introduced in the Statistics curricula and how to do so. Journal of Statistics Education](https://amstat.tandfonline.com/doi/pdf/10.1080/10691898.2020.1841591){target="_blank"}
 
